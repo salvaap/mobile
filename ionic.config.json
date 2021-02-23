@@ -1,0 +1,7 @@
+{
+  "name": "salva-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
